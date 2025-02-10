@@ -16,6 +16,9 @@ background-color: black;
 text-transform: uppercase;
 font-size: 0.5em;
 }
+section {
+    margin:0;
+}
 /* CLASSES */
 .bloc1 {
 background-color: rgb(110, 110, 110);
