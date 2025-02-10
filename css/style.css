@@ -5,7 +5,7 @@ max-height: 200px;
 align-self: center;
 }
 aside {
-background: linear-gradient(white, black, blue);
+background: linear-gradient(white, rgb(41, 41, 41), rgb(102, 102, 102));
 }
 p {
     font-size: 1.1em;
