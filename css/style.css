@@ -6,3 +6,21 @@ align-self: center;
 #updates {
 background: linear-gradient(white, black, blue);
 }
+.bloc1 {
+background-color: rgb(110, 110, 110);
+}
+.bloc2 {
+background-color: rgb(163, 163, 163);
+}
+.bloc3 {
+background-color: rgb(49, 49, 49);
+}
+.bloc1:hover {
+background-color: rgb(121, 76, 76);
+}
+.bloc2:hover {
+background-color: rgb(170, 53, 53);
+}
+.bloc3:hover {
+background-color: rgb(68, 3, 3);
+}
