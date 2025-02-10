@@ -4,5 +4,5 @@ max-height: 200px;
 align-self: center;
 }
 #updates {
-    background-color: linear, black, white
+background: linear-gradient(white, black, blue);
 }
