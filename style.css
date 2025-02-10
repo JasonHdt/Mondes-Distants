@@ -1,6 +1,6 @@
-header img{
-    height: 200px;
-    width: fit-content;
+header img {
+max-width: fit-content;
+max-height: 200px;
 }
 #updates {
     background-color: linear, black, white
