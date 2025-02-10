@@ -6,6 +6,8 @@ align-self: center;
 }
 aside {
 background: linear-gradient(white, rgb(41, 41, 41), rgb(102, 102, 102));
+max-width: 20%;
+max-height: 30%;
 }
 p {
     font-size: 1.1em;
